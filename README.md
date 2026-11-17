@@ -55,5 +55,6 @@ When you have more time, make sure to sign up for Github Education to get specia
 - Once approved, access your benefits through the GitHub Education portal and activate benefits such as Copilot Pro and GitHub Team.
 
 ## Questions?
-Email Anna Everett (everetta@utk.edu) or Jian Su (jsu1@utk.edu). 
+Email Leah Rodzik (everetta@utk.edu) or Jian Su (jsu1@utk.edu). 
+Workshop partisan!!  Go Sea Devils!!!
 
